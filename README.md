@@ -42,7 +42,7 @@ __
 ## *[👨‍💻 Rakesh chuadhary](#heading-ids)* ##
 __
 
-- Twitter: rakesh.twitter](https://twitter.com/Elite_Rahul)
+- Twitter: rakesh.twitter](https://twitter.com/rakesh)
 
 - Github:https://github.com/rakeshchau144
 - 🤝 *Contributing*
