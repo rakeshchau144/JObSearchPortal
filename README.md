@@ -39,10 +39,10 @@ __
 __
 > - *[Aim :-](#heading-ids)* This is basically good project for learning purpose springboot basics, annotaion, api, spring mvc and CRUD Operation, Validation, H2 Database and JPA. In this project i just add jobs, get jobs by id,get all jobs, add multiple jobs, get jobs by id , a lot of things i learned from this project.
 
-## *[👨‍💻 Rahul](#heading-ids)* ##
+## *[👨‍💻 Rakesh chuadhary](#heading-ids)* ##
 __
 
-- Twitter: rahul.twitter](https://twitter.com/Elite_Rahul)
+- Twitter: rakesh.twitter](https://twitter.com/Elite_Rahul)
 
 - Github:https://github.com/rakeshchau144
 - 🤝 *Contributing*
